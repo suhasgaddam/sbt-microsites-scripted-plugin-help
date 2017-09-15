@@ -1,0 +1,18 @@
+options:
+  - title: Getting Started
+    url: docs/index.html
+
+  - title: Configuring the Microsite
+    url: docs/settings.html
+
+  - title: Layouts
+    url: docs/layouts.html
+
+  - title: Customize
+    url: docs/customize.html
+
+  - title: Build the microsite
+    url: docs/build-the-microsite.html
+
+  - title: Publish with Travis
+    url: docs/publish-with-travis.html
